@@ -1,20 +1,22 @@
 # Site settings
 title: CYBERSOCKS
+country: Vietnam                                                      # custom data
 description: "Cybersocks Regional Competition 2016"
-url: "https://cybersocks.org"
-admin: "admin@cybersocks.org"
-quals: "malaysia"
+url: "https://cybersocks.org/vietnam"                                 # custom data
+domain: "cybersocks.org"
+university1: "Hanoi University of Science and Technology"             # custom data
+university2: "Posts and Telecommunications Institute of Technology"   # custom data
+register: "http://goo.gl/forms/cn22tFvXeMYR6dLr1"                     # custom data
 
 # Build settings
-baseurl: "/"
+baseurl: /
 markdown: kramdown
-source: .
 permalink: /:title
 
 # Custom variables
-version: "1.5"
-timezone: Asia/Kuala_Lumpur
-sass:
-  style: compressed
+version: "2.0"
 kramdown:
   input: GFM
+
+include:
+  - _pages
