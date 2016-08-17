@@ -2,10 +2,10 @@
 title: CYBERSOCKS
 country: Vietnam                                                      # custom data
 description: "Cybersocks Regional Competition 2016"
-url: "https://cybersocks.org/vietnam"                                 # custom data
+url: "https://cybersocks.org/vietnam/"                                 # custom data
 domain: "cybersocks.org"
-university1: "Hanoi University of Science and Technology"             # custom data
-university2: "Posts and Telecommunications Institute of Technology"   # custom data
+university1: "Đại học Bách khoa Hà Nội"             # custom data
+university2: "Học viện Công nghệ Bưu chính viễn thông"   # custom data
 register: "http://goo.gl/forms/cn22tFvXeMYR6dLr1"                     # custom data
 
 # Build settings
